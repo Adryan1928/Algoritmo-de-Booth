@@ -57,7 +57,8 @@ Ao invés de simplesmente somar várias vezes, o algoritmo:
 
 ## ✅ Pré-requisitos
 
-- Python 3 instalado
+- Python 3 instalado OU
+- Compilador C++ (g++)
 
 ---
 
@@ -65,10 +66,16 @@ Ao invés de simplesmente somar várias vezes, o algoritmo:
 
 No terminal, execute:
 
+PYTHON
 ```sh
 python main.py
 ```
 
+C++
+```sh
+g++ main.cpp -o main
+./main
+```
 
 ---
 
